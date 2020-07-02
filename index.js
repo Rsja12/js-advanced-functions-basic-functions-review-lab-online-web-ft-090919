@@ -10,6 +10,10 @@ var Calculator = {
   
   add: function(a, b) {
     return 1 + 3
+  },
+  
+  subtract: function(a, b) {
+    return 1 - 3
   }
   
 }
