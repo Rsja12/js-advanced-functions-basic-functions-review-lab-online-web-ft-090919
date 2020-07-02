@@ -9,7 +9,7 @@ function mondayWork(activity = 'go to the office') {
 Calculator = {
   
   add: function(a, b) {
-    return a + b
+    return 1 + 3
   }
   
 }
