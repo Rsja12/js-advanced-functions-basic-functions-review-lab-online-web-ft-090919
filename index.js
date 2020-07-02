@@ -1,3 +1,3 @@
 function saturdayFun(activity = 'roller-skate') {
-    return 'This Saturday, I want to bathe my dog!'
+    return `This Saturday, I want to ${activity}`
 }
