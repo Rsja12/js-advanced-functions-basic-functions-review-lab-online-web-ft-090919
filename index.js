@@ -6,7 +6,7 @@ function mondayWork(activity = 'go to the office') {
   return `This Monday, I will ${activity}.`
 }
 
-Calculator = {
+var Calculator = {
   
   add: function(a, b) {
     return 1 + 3
